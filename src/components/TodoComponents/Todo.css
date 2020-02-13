@@ -1,0 +1,31 @@
+.addBtn {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #358f50;
+    transition-duration: 0.4s;
+    font-size: 1rem;
+    margin-right: .5rem;
+    margin-left: .5rem;
+}
+
+.addBtn:hover {
+    background-color: #358f50;
+    color: white;
+  }
+
+  .delBtn {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #b84037;
+    transition-duration: 0.4s;
+    font-size: 1rem;
+}
+
+.delBtn:hover {
+    background-color: #b84037;
+    color: white;
+  }
+
+  .complete {
+    text-decoration: line-through;
+  }
